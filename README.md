@@ -1,3 +1,5 @@
+This README is made with AI
+
 📮 Python Postcode Info Finder
 A simple command-line tool built with Python that looks up information about any UK postcode. It uses the free postcodes.io API to fetch details like country, region, latitude, and longitude. It's a great beginner-to-intermediate project for learning about APIs, HTTP requests, JSON parsing, and error handling in Python.
 
